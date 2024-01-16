@@ -1,0 +1,24 @@
+h2 {
+    background-color: rgb(243, 223, 201);
+    border-color: black;
+
+}
+
+header {
+    color: red;
+}
+
+article {
+    border-style: solid;
+    border-color: black;
+    background-color: rgb(217, 210, 210);
+    width: 200px;
+    height: 200px;
+    display: inline-block;
+}
+img {
+    background-color: rgb(217, 210, 210);
+    width: 200px;
+    height: 200px;
+    display: inline;
+}
